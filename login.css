@@ -29,3 +29,17 @@ h6{
 .fas{
    color: darkgrey;
 }
+
+.field-icon {
+   float: right;
+   margin-left: -25px;
+   margin-top: -25px;
+   position: relative;
+   z-index: 2;
+ }
+
+ .input-group{
+   /* padding-top:50px; */
+   margin: auto;
+ }
+
