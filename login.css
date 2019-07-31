@@ -1,0 +1,31 @@
+body{
+   background-color:lightslategray;
+}
+.container{
+   margin-top: 50px;
+}
+.card-header {
+   padding: 5px 15px;
+}
+.profile-img{
+       width: 96px;
+        height: 96px;
+       margin: 0 auto 10px;
+       display: block;
+       -moz-border-radius: 50%;
+       -webkit-border-radius: 50%;
+       border-radius: 50%;
+}
+.btn-label
+{position: relative;left: -12px;display: inline-block;
+   padding: 6px 12px;border-radius: 3px 0 0 3px;}
+.btn-labeled {
+   padding-top: 0;
+   padding-bottom: 0;
+}
+h6{
+   margin-top: -17px;
+}
+.fas{
+   color: darkgrey;
+}
