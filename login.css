@@ -43,3 +43,16 @@ h6{
    margin: auto;
  }
 
+ .container-password {
+    position: relative;
+ }
+input {
+   width: 100%;
+}
+ .input-password {
+   position: absolute;
+ }
+.container-password i {
+   position: absolute;
+   right: 0;
+}
